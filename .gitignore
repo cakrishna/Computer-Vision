@@ -354,5 +354,8 @@ pip-delete-this-directory.txt
 temp/
 bin/
 faiss_index/
+data/
+data2/
 # *.pkl
 # *.faiss
+# *.png
