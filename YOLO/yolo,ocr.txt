@@ -1,0 +1,10 @@
+conda create -n yolov11 python=3.11
+
+# pip install ultralytics
+
+Data Labeling
+
+pip install -U label-studio
+
+# Launch it! Separately using a terminal.
+label-studio
